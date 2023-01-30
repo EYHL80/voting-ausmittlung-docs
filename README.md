@@ -1,3 +1,4 @@
+ 
 # Documentation Repository of VOTING Ausmittlung
 
 This repository includes all superordinate documentation for `VOTING Ausmittlung` (e.g. architecture documentation, finding list, security policies, etc.)
